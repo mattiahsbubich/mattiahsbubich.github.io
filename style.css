@@ -4,16 +4,10 @@
   color: white;
   font-size: 50px;
 }
-.body {
-  background-image: url('https://c4.wallpaperflare.com/wallpaper/16/671/726/lionel-messi-football-barcelona-hd-wallpaper-preview.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: cover;
-}
 
 .conteiner {
   padding: 50px;
   text-align:right;
   color: white;
-
+  margin-left: 10px;
 }
