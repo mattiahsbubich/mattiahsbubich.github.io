@@ -6,7 +6,9 @@
 
 .conteiner {
   padding: 50px;
-  text-align:right;
+  text-align:left;
   color: white;
   margin-left: 10px;
+  font-family: Helvetica, Arial, sans-serif;
+   font-size: 20px;
 }
